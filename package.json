@@ -1,0 +1,24 @@
+{
+  "name": "kalkulator-aplikasi",
+  "version": "1.0.0",
+  "description": "Aplikasi Kalkulator Hybrid Sederhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Tim Pengembang",
+  "license": "ISC",
+  "devDependencies": {
+    "cordova-cli": "^12.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "plugins": []
+  }
+}
